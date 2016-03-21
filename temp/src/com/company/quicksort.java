@@ -13,12 +13,16 @@ public class quicksort {
 
 
 
-
+return 5;
 
 
     }
 
-    public static  int[] sort(int[] ar ,int low,int high)
+    public static  int[] sort(int[] ar ,int low,int high){
+
+        return ar;
+
+    }
 
     public static void main(String[] args) {
         System.out.print(" test, sentence= catsdog   dic= cats cat dog sdog catsd" );
